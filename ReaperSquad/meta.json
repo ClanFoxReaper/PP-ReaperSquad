@@ -1,0 +1,24 @@
+{
+  "ID": "com.example.rs",
+  "AssemblyName": "ReaperSquad.dll",
+  "Author": [
+    {
+      "Key": "English",
+      "Value": "ClanFoxReaper"
+    }
+  ],
+  "Version": "1.0",
+  "Name": [
+    {
+      "Key": "English",
+      "Value": "Reaper Squad"
+    }
+  ],
+  "Description": [
+    {
+      "Key": "English",
+      "Value": "Reaper Squad soldiers!!!"
+    }
+  ],
+  "Dependencies": []
+}

@@ -1,0 +1,7 @@
+C:\Users\Constantin\Documents\ReaperSquad\Dist\meta.json
+C:\Users\Constantin\Documents\ReaperSquad\Dist\ReaperSquad.dll
+C:\Users\Constantin\Documents\ReaperSquad\Dist\ReaperSquad.pdb
+C:\Users\Constantin\Documents\ReaperSquad\ReaperSquad\obj\Debug\ReaperSquad.csproj.AssemblyReference.cache
+C:\Users\Constantin\Documents\ReaperSquad\ReaperSquad\obj\Debug\ReaperSquad.csproj.CoreCompileInputs.cache
+C:\Users\Constantin\Documents\ReaperSquad\ReaperSquad\obj\Debug\ReaperSquad.dll
+C:\Users\Constantin\Documents\ReaperSquad\ReaperSquad\obj\Debug\ReaperSquad.pdb
